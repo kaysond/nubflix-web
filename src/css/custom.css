@@ -8,7 +8,7 @@ content: url(../nubflix.png) !important; }
   
 /* Home Page Logo*/
 .pageTitleWithLogo {
-background-image: url(../nubfix.png) !important; }
+background-image: url(../nubflix.png) !important; }
 
 /*Top menu transparency*/
 .skinHeader.skinHeader-withBackground.headroom.noHomeButtonHeader {background:none; background-color:rgba(0, 0, 0, 0);}
