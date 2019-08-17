@@ -782,7 +782,7 @@ define(["dom", "layoutManager", "inputManager", "connectionManager", "events", "
                 pageTitleElement.innerHTML = "";
             }
 
-            document.title = "Jellyfin";
+            document.title = "Nubflix";
         },
         setTitle: function (title) {
             if (null == title) {
@@ -806,7 +806,7 @@ define(["dom", "layoutManager", "inputManager", "connectionManager", "events", "
                 pageTitleElement.innerHTML = html || "";
             }
 
-            document.title = title || "Jellyfin";
+            document.title = title || "Nubflix";
         },
         setTransparentMenu: function (transparent) {
             if (transparent) {
